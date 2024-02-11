@@ -1,6 +1,6 @@
 <h2> Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24px"></h2>
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var.-->
-# CONTACT ME
+<h2> Hi There :telephone_receiver: </h2>
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/dcangundogan)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dcangundogan)
