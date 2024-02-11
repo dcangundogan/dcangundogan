@@ -1,4 +1,11 @@
 <h2> Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24px"></h2>
+# CONTACT ME
+
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/dcangundogan)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+dcangundogan)
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundogandcan@gmail.com)
+---
 
 <!--
 **dcangundogan/dcangundogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
