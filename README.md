@@ -1,4 +1,4 @@
-<h2> Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24px"></h2>
+<h2> Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h2>
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var.-->
 <h2> CONTACT ME!! :telephone_receiver: </h2>
 
