@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dcangundogan&background=000000&dates=EB5454&ring=EB5454&stroke=EB5454&sideLabels=EB5454&excludeDaysLabel=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dcangundogan)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcangundogan&show_icons=true&theme=radical)
